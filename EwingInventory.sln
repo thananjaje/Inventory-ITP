@@ -6,6 +6,14 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EwingInventory", "EwingInventory\EwingInventory.csproj", "{1CACED0F-E1F0-41D2-B69D-F39065667017}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4B621E2-3F2C-4286-9AB4-8F819F07E98E}"
+	ProjectSection(SolutionItems) = preProject
+		..\Shafan\EwingInventory\EwingInventory\Settings.cs = ..\Shafan\EwingInventory\EwingInventory\Settings.cs
+		..\Shafan\EwingInventory\EwingInventory\Settings.Designer.cs = ..\Shafan\EwingInventory\EwingInventory\Settings.Designer.cs
+		..\Shafan\EwingInventory\EwingInventory\Settings.resx = ..\Shafan\EwingInventory\EwingInventory\Settings.resx
+		..\Shafan\EwingInventory\EwingInventory\UserMgnt.cs = ..\Shafan\EwingInventory\EwingInventory\UserMgnt.cs
+		..\Shafan\EwingInventory\EwingInventory\UserMgnt.Designer.cs = ..\Shafan\EwingInventory\EwingInventory\UserMgnt.Designer.cs
+		..\Shafan\EwingInventory\EwingInventory\UserMgnt.resx = ..\Shafan\EwingInventory\EwingInventory\UserMgnt.resx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
